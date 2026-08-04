@@ -4834,8 +4834,8 @@ footer {
   height: 42px;
   border: 2px solid var(--spud-stamp);
   border-radius: 50%;
-  opacity: 0.5;
-  transform: rotate(9deg);
+  opacity: 0.75;
+  transform: rotate(11deg);
   pointer-events: none;
   z-index: 0;
 }
